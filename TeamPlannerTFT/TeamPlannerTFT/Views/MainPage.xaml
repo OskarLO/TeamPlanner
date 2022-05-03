@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="TeamPlannerTFT.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Style="{StaticResource PageStyle}">
+
+    <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" >
+            <TextBlock
+                Grid.Row="0"
+                x:Uid="Main_Title"
+                Style="{StaticResource PageTitleStyle}" />
+
+            <AppBarButton Margin="10" Grid.Row="0" Icon="Page" Label="TEST Page" Click="Button_Click_Crud_Page"></AppBarButton>
+        </StackPanel>
+        
+        <Grid
+            Grid.Row="1" 
+            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <!--
+                The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content.
+                Place your content here.
+            -->
+            <TextBlock>TEST page</TextBlock>
+            
+        </Grid>
+    </Grid>
+</Page>

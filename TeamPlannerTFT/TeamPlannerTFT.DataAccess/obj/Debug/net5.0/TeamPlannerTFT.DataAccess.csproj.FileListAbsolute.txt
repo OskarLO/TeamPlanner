@@ -1,0 +1,15 @@
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.AssemblyInfo.cs
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\bin\Debug\net5.0\TeamPlannerTFT.DataAccess.deps.json
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\bin\Debug\net5.0\TeamPlannerTFT.DataAccess.runtimeconfig.json
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\bin\Debug\net5.0\TeamPlannerTFT.DataAccess.runtimeconfig.dev.json
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\bin\Debug\net5.0\TeamPlannerTFT.DataAccess.dll
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\bin\Debug\net5.0\ref\TeamPlannerTFT.DataAccess.dll
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\bin\Debug\net5.0\TeamPlannerTFT.DataAccess.pdb
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.dll
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\ref\TeamPlannerTFT.DataAccess.dll
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.pdb
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.DataAccess\obj\Debug\net5.0\TeamPlannerTFT.DataAccess.genruntimeconfig.cache

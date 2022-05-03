@@ -1,0 +1,10 @@
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\bin\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.deps.json
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\bin\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.dll
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\bin\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.pdb
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.csproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.AssemblyInfoInputs.cache
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.AssemblyInfo.cs
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.dll
+C:\Users\Ando\source\repos\TeamPlannerTFT\TeamPlannerTFT.Core\obj\x86\Debug\netstandard2.0\TeamPlannerTFT.Core.pdb
