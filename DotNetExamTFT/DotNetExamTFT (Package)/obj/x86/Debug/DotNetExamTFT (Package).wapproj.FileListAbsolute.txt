@@ -1,0 +1,122 @@
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\App.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Styles\Page.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Views\MainPage.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\CommunityToolkit.Mvvm.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.WinUI.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactions.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactivity.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Windows.SDK.NET.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\WinRT.Runtime.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.Core.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.Core.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.deps.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.runtimeconfig.dev.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\App.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\Page.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\TextBlock.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\_FontSizes.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\_Thickness.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Views\MainPage.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.exe
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\CommunityToolkit.Mvvm.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactions.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactivity.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.runtimeconfig.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\resources.pri
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT (Package).build.appxrecipe
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT (Package).wapproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT.pri.xml
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT (Package).wapproj.LastBuild.txt
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Views\CrudPage.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\Views\DialogPage.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Newtonsoft.Json.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Views\CrudPage.xbf
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Views\DialogPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\App.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Styles\Page.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Views\CrudPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Views\DialogPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\Views\MainPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\CommunityToolkit.Mvvm.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.WinUI.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactions.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactivity.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Newtonsoft.Json.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Windows.SDK.NET.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\WinRT.Runtime.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.Core.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.Core.pdb
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.deps.json
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.runtimeconfig.dev.json
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\App.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\Page.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\TextBlock.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\_FontSizes.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Styles\_Thickness.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Views\CrudPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Views\DialogPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Views\MainPage.xbf
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.exe
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\CommunityToolkit.Mvvm.pdb
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactions.pdb
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\Microsoft.Xaml.Interactivity.pdb
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.runtimeconfig.json
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.dll
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT\DotNetExamTFT.pdb
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\resources.pri
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\bin\x86\Debug\DotNetExamTFT (Package).build.appxrecipe
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT (Package).wapproj.AssemblyReference.cache
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT.pri.xml
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ando\OneDrive - Østfold University College\.NET\eksamen backup\DotNetExamTFT_FixDataAccessOGapi\DotNetExamTFT (Package)\obj\x86\Debug\DotNetExamTFT (Package).wapproj.LastBuild.txt

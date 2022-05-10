@@ -1,0 +1,15 @@
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\bin\Debug\net5.0\DotNetExamTFT.DataAccess.deps.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\bin\Debug\net5.0\DotNetExamTFT.DataAccess.runtimeconfig.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\bin\Debug\net5.0\DotNetExamTFT.DataAccess.runtimeconfig.dev.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\bin\Debug\net5.0\DotNetExamTFT.DataAccess.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\bin\Debug\net5.0\ref\DotNetExamTFT.DataAccess.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\bin\Debug\net5.0\DotNetExamTFT.DataAccess.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.AssemblyInfo.cs
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\ref\DotNetExamTFT.DataAccess.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.DataAccess\obj\Debug\net5.0\DotNetExamTFT.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\bin\x86\Debug\netstandard2.0\DotNetExamTFT.Core.deps.json
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\bin\x86\Debug\netstandard2.0\DotNetExamTFT.Core.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\bin\x86\Debug\netstandard2.0\DotNetExamTFT.Core.pdb
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.csproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.AssemblyInfoInputs.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.AssemblyInfo.cs
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.dll
+C:\Users\Ando\source\repos\DotNetExamTFT\DotNetExamTFT.Core\obj\x86\Debug\netstandard2.0\DotNetExamTFT.Core.pdb

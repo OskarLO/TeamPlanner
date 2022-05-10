@@ -1,0 +1,49 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="DotNetExamTFT.Views.CrudPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Style="{StaticResource PageStyle}">
+
+    <Grid x:ConnectionId='2' x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock
+            Grid.Row="0"
+            x:Uid="Crud_Title"
+            Style="{StaticResource PageTitleStyle}" />
+
+            <AppBarButton x:ConnectionId='9' Margin="10" Grid.Row="0" Icon="Page" Label="Go to main page"                               ></AppBarButton>
+        </StackPanel>
+
+        <!--Forsoker å legge til denne koden men da feiler programmet ved navigering til CrudPage-->
+        
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <AppBarButton x:ConnectionId='5' Icon="Download" Label="Get"                               />
+            <AppBarButton x:ConnectionId='6' Icon="Add" Label="Add"                                        />
+            <AppBarButton x:ConnectionId='7' Icon="Edit" Label="Edit"                                                                                                        />
+            <AppBarButton x:ConnectionId='8' Icon="Delete" Label="Delete"                                                                                                        />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2">
+            <ListView x:ConnectionId='3' x:Name="Unit"                                                                                               >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding UnitInfo}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+        
+
+    </Grid>
+
+</Page>
+
